@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width:  1000px; ;
+    margin: 0 auto;
+}
+
+.header .container{
+    display: flex;
+}
+
+
+.header {
+}
+.container {
+}
+.logo {
+}
+.header__title {
+}
+.grettings {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.grettings img{
+max-width: 500px;
+
+}
+
+
+.grettings__contant {
+}
+.grettings__title {
+}
+.grettings__text {
+}
+.grettings__btn {
+}
+.footer {
+}
+.footer__text {
+}
